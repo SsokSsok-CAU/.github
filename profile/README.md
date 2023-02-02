@@ -4,6 +4,13 @@
 ## 프로젝트 주제
 사용자의 사진을 기반한 컬러링북 도안 제작 & 채색 어플
 
+## 프로젝트 Docs
+[1조(색칠쏙쏙) 15주차 최종데모발표자료.pdf](https://github.com/SsokSsok-CAU/.github/files/10566027/1.15.pdf)
+
+[1조(색칠쏙쏙) UserManual.pdf](https://github.com/SsokSsok-CAU/.github/files/10566019/1.UserManual.pdf)
+
+[1조(색칠쏙쏙) FinalReport.pdf](https://github.com/SsokSsok-CAU/.github/files/10566021/1.FinalReport.pdf)
+
 ## 팀 소개
 팀원 1 : 박성오 (20184136) [UI/UX, FrontEnd] <br>
 팀원 2 : 고정훈 (20184632) [ML] <br>
